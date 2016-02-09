@@ -1,0 +1,28 @@
+name: webwax
+favicon: null
+layout_spectrum: 0.6189753890503198
+typography_spectrum: 0.546147954184562
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.835910273483023
+  lightness: 0.6805691979825497
+  saturation: 0.055714910151436925
+  rhythmicContrast: 0.17564622638747096
+purpose: []
