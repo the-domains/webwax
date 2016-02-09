@@ -2,6 +2,7 @@ name: webwax
 favicon: null
 layout_spectrum: 0.6189753890503198
 typography_spectrum: 0.546147954184562
+title: webwax grid
 cta:
   domain: null
   bucket: null
