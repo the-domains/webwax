@@ -1,29 +1,41 @@
-name: webwax
-favicon: null
-layout_spectrum: 0.6189753890503198
-typography_spectrum: 0.546147954184562
 title: webwax grid
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.05571491015143692
+  brandStrength: 0.8136201
+  lightness: 0.6805691979825497
+  brandColors:
+    - '#001420'
+    - '#FFFFFF'
+    - '#00D5FF'
+    - '#E29B0E'
+    - '#B3A3C7'
+  rhythmicContrast: 0.175646226387471
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: webwax
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.835910273483023
-  lightness: 0.6805691979825497
-  saturation: 0.055714910151436925
-  rhythmicContrast: 0.17564622638747096
-purpose: []
+typography_spectrum: 0.2670251
+layout_spectrum: 0.6810036
