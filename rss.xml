@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[webwax grid]]></title>
         <description><![CDATA[webwax grid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/webwax/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 14:55:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 13:46:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/webwax/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Howdy]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18fa4f66-ed0e-497a-a106-3b40515ac74f.jpg">]]></description>
+            <link>https://thegrid.ai/webwax/howdy/index.html</link>
+            <guid isPermaLink="false">41b55cd7-5fc6-48e5-8c3c-93992ce2501e</guid>
+            <pubDate>Tue, 26 Apr 2016 13:44:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stressed!]]></title>
-            <description><![CDATA[<article><h1>Stressed!</h1><p>Stressed out! https://www.youtube.com/watch?v=pXRviuL6vMY</p></article>]]></description>
-            <link>undefinedstressed/index.html</link>
+            <description><![CDATA[<p>Stressed out! https://www.youtube.com/watch?v=pXRviuL6vMY</p>]]></description>
+            <link>https://thegrid.ai/webwax/stressed/index.html</link>
             <guid isPermaLink="false">20c188a6-7435-4702-88fd-d5b9bb774f8f</guid>
             <pubDate>Tue, 09 Feb 2016 14:55:31 GMT</pubDate>
         </item>
